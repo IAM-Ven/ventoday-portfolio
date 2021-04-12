@@ -248,20 +248,6 @@ const PERSONAL_PROJECTS = [
             <p>Deployed on <b>Heroku</b> using <b>Docker</b>.</p>,
         ]
     },
-    {
-        title: "Personal Portfolio",
-        description: "Personal portfolio built with responsive UI using React and MaterialCSS.",
-        websiteLink: null,
-        githubLink: "https://github.com/ujjavaldesai07/portfolio-react-materialize",
-        image: portfolioImg,
-        video: null,
-        technologyUsed: [
-            <p>Front-end built using <b>React</b>.</p>,
-            <p>Used <b>ScrollSpy</b> library for the side navigation bar animation.</p>,
-            <p>Designed in <b>MaterialCSS</b> and <b>Bootstrap</b>.</p>,
-            <p>Deployed on <b>Netlify</b>.</p>,
-        ]
-    }
 ];
 
 class Projects extends React.Component {
