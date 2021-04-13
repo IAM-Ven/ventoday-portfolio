@@ -24,18 +24,18 @@ const EXPERIENCE_DATA = [
             "Designed and developed the End Points (Controllers), Business Layer, DAO Layer using Hibernate/JDBC.",
             "Used Hibernate, JPA object-relational mapping (ORM) solution, a technique of mapping data representation from MVC model to Oracle Relational data model with an SQL-based schema.",
         ],
-        date: "December 2018 - Present | Pretoria, Gauteng",
+        date: "December 2018 - Present | Pretoria, GP",
+        tooltip: "Look at the company's website"
        
     },
     {
         image: telkomImg,
-        websiteLink: "https://uhcl.edu",
-        professionTitle: "Teaching Assistant",
+        websiteLink: "https://telkom.co.za",
+        professionTitle: "Senior Java Developer",
         descriptionPoints: [
-            "Assisted, graded, and gave feedback on assignments for over 30 students.",
-            "Tutored students individually and in small groups to reinforce learning concepts."
+            
         ],
-        date: "Jun 2019 - Dec 2020 | Houston, TX",
+        date: "Jun 2019 - Dec 2020 | Johannesburg , GP",
         tooltip: "Look at the company's website"
     },
     {
